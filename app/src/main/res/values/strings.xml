@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HugoManager</string>
+    <string name="textview2">Search</string>
+    <string name="buttonAdd">Add</string>
+    <string name="buttonDelete">Delete</string>
+    <string name="buttonEdit">Edit</string>
+    <string name="description">Description</string>
+</resources>
